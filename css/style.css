@@ -173,13 +173,10 @@ margin-bottom:100px;
 
 }
 #services div{
-	color:lightgray;
 	font-size:100px;
-	width:65%;
-	/* padding:20px; */
-	margin:auto;
+	color:lightgray;
 	opacity:0.1;
-	text-align:center
+	text-align:center;
 }
 #services p{
 	font-size:20px;
