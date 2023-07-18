@@ -178,7 +178,7 @@ margin-bottom:100px;
 	width:65%;
 	/* padding:20px; */
 	margin:auto;
-	opacity:0.3;
+	opacity:0.1;
 	text-align:center
 }
 #services p{
@@ -271,7 +271,7 @@ color:#797979;
 #portfolio h2{
 	font-weight:bold;
 	color:lightgray;
-	opacity:0.2;
+	opacity:0.1;
 	font-size:100px;
 	margin-bottom:-32px;
 }
@@ -402,7 +402,7 @@ hr{
   
 }
   .contact2 h2{
-	color:#777;
+	color:lightgray;
 	font-size:100px;
 	opacity:0.1;
 }
@@ -551,5 +551,8 @@ hr{
 	.contact2 p{
 		margin-top:100px;
 	}
+	#contact{
+		margin-top:100px;
+	}
 }
-		
+
